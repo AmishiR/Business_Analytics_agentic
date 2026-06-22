@@ -1,0 +1,8 @@
+myvenv/
+0_test.ipynb
+02_llm_workflow.ipynb
+3_prompt-chaining.ipynb
+bmi_workflow.ipynb
+.env
+.ipynb_checkpoints/
+.virtual_documents/
